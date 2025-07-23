@@ -1,6 +1,6 @@
 # Official MLPerf Benchmark Live Status
 
-**Generated:** Tue Jul 22 03:34:22 PM KST 2025  
+**Generated:** Tue Jul 22 11:43:04 PM KST 2025  
 **Implementation:** Official MLCommons Reference  
 **Dataset:** CNN DailyMail (13,368 samples)  
 **Benchmark:** Llama-3.1-8B Server Scenario
