@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-07-28T16:03:10.963157",
+  "test_type": "quick_validation",
+  "status": "completed",
+  "samples_processed": 1,
+  "duration_seconds": 30.5,
+  "throughput_samples_per_sec": 0.033,
+  "gpu_detected": "NVIDIA A30",
+  "framework_status": "operational"
+}

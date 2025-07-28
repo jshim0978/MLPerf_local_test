@@ -1,0 +1,9 @@
+MLPerf Quick Test Results
+========================
+Timestamp: 2025-07-28T16:03:10.963157
+Status: completed
+Samples: 1
+Duration: 30.5s
+Throughput: 0.033 samples/sec
+GPU: NVIDIA A30
+Framework: operational
