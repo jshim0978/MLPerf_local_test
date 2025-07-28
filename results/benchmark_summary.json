@@ -1,22 +1,22 @@
 {
   "report_metadata": {
-    "generated_at": "2025-07-28T18:05:54.020732",
+    "generated_at": "2025-07-28T18:16:35.428908",
     "results_directory": "../results",
     "generator": "MLPerf Benchmark Report Generator",
     "version": "1.0"
   },
   "benchmark_summary": {
     "status": "SUCCESS",
-    "samples_processed": 20,
-    "execution_time_seconds": 56.175,
+    "samples_processed": 100,
+    "execution_time_seconds": 490.547,
     "errors": 0,
     "warnings": 0,
     "success_rate_percent": 100.0
   },
   "performance_metrics": {
-    "average_time_per_sample_seconds": 2.80875,
-    "samples_per_second": 0.3560302625723187,
-    "performance_rating": "EXCELLENT"
+    "average_time_per_sample_seconds": 4.90547,
+    "samples_per_second": 0.20385406495198216,
+    "performance_rating": "GOOD"
   },
   "technical_configuration": {
     "model_name": "Unknown",
@@ -26,9 +26,9 @@
     "engine": "vLLM"
   },
   "file_outputs": {
-    "accuracy_log_bytes": 21843,
-    "detail_log_bytes": 23010,
+    "accuracy_log_bytes": 109283,
+    "detail_log_bytes": 23261,
     "summary_log_bytes": 74,
-    "total_output_bytes": 44927
+    "total_output_bytes": 132618
   }
 }
