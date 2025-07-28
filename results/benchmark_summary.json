@@ -1,0 +1,34 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-07-28T17:39:58.008546",
+    "results_directory": "../results",
+    "generator": "MLPerf Benchmark Report Generator",
+    "version": "1.0"
+  },
+  "benchmark_summary": {
+    "status": "SUCCESS",
+    "samples_processed": 50,
+    "execution_time_seconds": 0.0,
+    "errors": 0,
+    "warnings": 0,
+    "success_rate_percent": 100.0
+  },
+  "performance_metrics": {
+    "average_time_per_sample_seconds": 0,
+    "samples_per_second": 0,
+    "performance_rating": "EXCELLENT"
+  },
+  "technical_configuration": {
+    "model_name": "Unknown",
+    "precision": "Unknown",
+    "tensor_parallel_size": 1,
+    "framework": "MLPerf Inference v5.0",
+    "engine": "vLLM"
+  },
+  "file_outputs": {
+    "accuracy_log_bytes": 54633,
+    "detail_log_bytes": 23108,
+    "summary_log_bytes": 74,
+    "total_output_bytes": 77815
+  }
+}
