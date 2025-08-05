@@ -1,0 +1,10 @@
+{
+  "dataset_name": "cnn_dailymail",
+  "version": "3.0.0",
+  "split": "validation",
+  "total_samples": 13368,
+  "source": "huggingface:cnn_dailymail",
+  "download_date": "2025-08-05",
+  "mlperf_compatible": true,
+  "rouge_ready": true
+}
